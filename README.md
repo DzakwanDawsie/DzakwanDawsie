@@ -1,6 +1,6 @@
 ### Introduction
 
-Hello, I'm Dzakwan Dawsie, Born in Indonesia May 27, 2001. Just a Software Engineer with an affinity for Php, NodeJS, Android Native, Kotlin. Have interest to Game Development, Artificial Intelligence, Machine Learning, and Computer Vision.
+Hello, I'm Dzakwan Dawsie, Born in Indonesia May 27, 2001. Just a Software Engineer with an affinity for PHP, NodeJS, Android Native, Kotlin. Have interest to Game Development, Artificial Intelligence, Machine Learning, and Computer Vision.
 
 - 🔭 I’m currently working @ Anilo Adikarya Sentosa
 - 🌱 I’m currently learning about Android Development to be expert
