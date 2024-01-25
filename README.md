@@ -6,7 +6,7 @@ Hello, I'm Dzakwan Dawsie, Born in Indonesia on May 27, 2001. Just a Software En
 - 🌱 I’m currently learning about Android Development to be expert
 - 💬 Ask me about coding, animes, or games (Genshin Impact?)
 - 📫 How to reach me: 
-  <br/>LinkedIn: https://www.linkedin.com/in/dzakwan-dawsie-5a9172186
+  <br/>LinkedIn: https://www.linkedin.com/in/dzakwan-dawsie
   <br/>Instagram: https://www.instagram.com/zackwan_d
 - 😄 Pronouns: He/Him
 
